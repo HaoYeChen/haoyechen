@@ -1,3 +1,15 @@
+<!--
+############################
+Website i used for this README.md
+############################
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md
+https://github.com/ikatyang/emoji-cheat-sheet
+
+-->
+
+
+
 <h2> Hey there! I'm Hao.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
