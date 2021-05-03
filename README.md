@@ -5,7 +5,7 @@
 - 🔭 &nbsp; Currently working on React
 - 🌱 &nbsp; Currently learning React
 - ⚡ &nbsp; Fun fact: I eat rice everyday
-- 📍  &nbsp; Current living in: Denmark
+- 🗺️  &nbsp; Current living in: Denmark
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying current at Technical Education Copenhagen
 - 💼 &nbsp; Looking for internship
