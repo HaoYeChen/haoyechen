@@ -35,6 +35,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![jQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery&logoColor=032a42)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![WordPress](https://img.shields.io/badge/Wordpress-333333?style=flat&logo=wordpress&logoColor=21759b)
   <!--- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -48,8 +49,10 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - 🔧 &nbsp;
   ![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-333333?style=flat&logo=visual%20studio&logoColor=5C2D91)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Unity](https://img.shields.io/badge/Unity-333333?style=flat&logo=unity&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-333333?style=flat&logo=android&logoColor=a4c639)
+  ![Netlify](https://img.shields.io/badge/Netlify-333333?style=flat&logo=netlify&logoColor=#00E0CE)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   <!---!![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)-->
