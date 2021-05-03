@@ -18,7 +18,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - 🌱 &nbsp; Currently learning React
 - ⚡ &nbsp; Fun fact: I eat rice everyday
 - 🗺️  &nbsp; Current living in: Denmark
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies
 - 🎓 &nbsp; Studying current at Technical Education Copenhagen
 - 💼 &nbsp; Looking for internship
 <!--- - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
