@@ -24,7 +24,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 <!--- - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.-->
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;What I have experience with</h3>
 
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=5C2D91)
