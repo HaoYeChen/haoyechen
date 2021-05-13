@@ -37,6 +37,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![jQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery&logoColor=032a42)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=FF0000)
   ![WordPress](https://img.shields.io/badge/Wordpress-333333?style=flat&logo=wordpress&logoColor=21759b)
   <!--- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)-->
