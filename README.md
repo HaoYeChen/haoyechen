@@ -64,12 +64,12 @@ https://github.com/ikatyang/emoji-cheat-sheet
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)-->
 
 <br/>
-
+<div align="center">
 <a href="https://github.com/HaoYeChen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haoyechen&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoyechen&theme=buefy&layout=compact" />
 </a>
-
+</div>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -80,3 +80,9 @@ https://github.com/ikatyang/emoji-cheat-sheet
 <a href="mailto:haoyechen@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-haoyechen@hotmail.com-blue?style=flat-square&logo=microsoft-outlook"></a>
 </a>
 </p>
+
+<div align="center">
+  <p>Scan for website</p>
+  <img src="http://chart.apis.google.com/chart?chs=310x210&cht=qr&chl=http://www.haoyechen.dk" />
+</div>
+
