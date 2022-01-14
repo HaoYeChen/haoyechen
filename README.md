@@ -29,13 +29,13 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=5C2D91)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  <!---![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)-->
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![jQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery&logoColor=032a42)
+  <!---![jQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery&logoColor=032a42)-->
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![WordPress](https://img.shields.io/badge/Wordpress-333333?style=flat&logo=wordpress&logoColor=21759b)
   <!--- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
