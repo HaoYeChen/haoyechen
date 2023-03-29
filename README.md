@@ -14,6 +14,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <!---!- 🌱 &nbsp; Currently learning React -->
+
 - 🔭 &nbsp; Currently working on new portfolio
 - ⚡ &nbsp; Fun fact: I eat rice everyday
 - 🗺️  &nbsp; Current living in: Denmark
