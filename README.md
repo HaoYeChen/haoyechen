@@ -43,8 +43,8 @@ https://github.com/ikatyang/emoji-cheat-sheet
   
 - 🛢 &nbsp;
   ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-333333?style=flat&logo=microsoft%20sql%20server)
-  <!---![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)-->
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  <!---![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)-->
   
 - 🔧 &nbsp;
   ![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-333333?style=flat&logo=visual%20studio&logoColor=5C2D91)
