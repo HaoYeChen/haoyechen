@@ -71,17 +71,11 @@ https://github.com/ikatyang/emoji-cheat-sheet
 </div>
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<!---!<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.haoyechen.dk/"><img alt="Website" src="https://img.shields.io/badge/Website-www.haoyechen.dk-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/hao-ye-chen-34bb08b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hao%20Ye%20Chen-blue?style=flat-square&logo=linkedin&logoColor=0077b5"></a>
 <a href="mailto:haoyechen@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-haoyechen@hotmail.com-blue?style=flat-square&logo=microsoft-outlook"></a>
 </a>
-</p>
-
-<div align="center">
-  <p>Scan for website</p>
-  <img src="http://chart.apis.google.com/chart?chs=310x210&cht=qr&chl=http://www.haoyechen.dk" />
-</div>
-
+</p>-->
