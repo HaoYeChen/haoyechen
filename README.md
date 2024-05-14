@@ -15,12 +15,12 @@ https://github.com/ikatyang/emoji-cheat-sheet
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <!---!- 🌱 &nbsp; Currently learning React -->
 
-- 🔭 &nbsp; To be continued
+- 🔭 &nbsp; Currently project: To be continued
 - ⚡ &nbsp; Fun fact: I eat rice everyday
 - 🗺️  &nbsp; Current living in: Denmark
 - 🤔 &nbsp; Exploring new technologies
 - 🎓 &nbsp; Graduated at Technical Education Copenhagen
-- 💼 &nbsp; Looking for a front-end developer job
+<!--- - 💼 &nbsp; Looking for a front-end developer job -->
 <!--- - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.-->
 
